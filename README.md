@@ -1,7 +1,7 @@
 👋  
 Hi, I’m @EmilHafeez, currently a second-year MS student at Columbia Mailman's Department of Biostatistics specializing in Theory and Methods. Please see an excerpt from my resumé below and please don't hesitate to reach out at emil.hafeez@gmail.com. My LinkedIn is https://www.linkedin.com/in/emilhafeez/. 
 
-- 🌱 Decisions-focused analyst and rigorous social scientist with diverse experience, education, and goals in biostatistics, data science, and program evaluation. 
+- Decisions-focused analyst and rigorous social scientist with diverse experience, education, and goals in biostatistics, data science, and program evaluation. 
 - Interest and experience in applying rigorous inference for programmatic and policy use. 
 - Emphasis on grassroots equity, co-ownership, and communication. Holds USA and EU citizenships.
 
