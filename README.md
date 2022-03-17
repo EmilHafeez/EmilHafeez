@@ -1,5 +1,5 @@
 👋  
-Hi, I’m @EmilHafeez, currently a second-year MS student at Columbia Mailman's Department of Biostatistics specializing in Theory and Methods as well as a Senior Data Analyst at NYU Langone Health, Department of Population Health. Positions my own. Please don't hesitate to reach out at emil.hafeez@gmail.com. My LinkedIn is https://www.linkedin.com/in/emilhafeez/. 
+Hi, I’m @EmilHafeez, currently a second-year MS student at Columbia Mailman's Department of Biostatistics and Senior Data Analyst at NYU Langone Health, Department of Population Health. Positions my own. Please don't hesitate to reach out at emil.hafeez@gmail.com. My LinkedIn is https://www.linkedin.com/in/emilhafeez/. 
 
 - Decisions-focused analyst and rigorous social scientist with diverse experience, education, and goals in biostatistics, data science, and program evaluation. 
 - Interest and experience in applying rigorous inference for programmatic and policy use. 
