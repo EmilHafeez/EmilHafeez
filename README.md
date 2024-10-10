@@ -1,8 +1,5 @@
 👋  
-Rigorous scientist with 7+ years research experience. Biostatistics MS and Health Systems MSPH Master's degrees. Emphasis on public health statistical analysis, visualization, and data engineering; actionable and collaborative program evaluation; technical and external communication. 
-Advanced skills include R, SQL and relational database management, Stata, and Salesforce. Team-oriented and motivated, efficient and process-driven. 
-
-I'm a Senior Data Analyst at NYU Langone’s Department of Population Health, where I lead complex analyses relating to health policy and health economics, including evaluating the impact of COVID-19 on health disparities among NYC schoolchildren and investigating the influence of food policies on large national sales datasets. I am also an Assistant Adjunct Professor of Public Policy at NYU Wagner, where I teach the popular and inventively named course R Coding for Public Policy. I have experience in data engineering and analysis, program evaluation, and project management; my interests include using causal inference for identifying policy levers and effects. I hold an MS in Biostatistics from Columbia University and an MSPH in International Health Systems from Johns Hopkins School of Public Health, as well as a BS from NYU. Positions my own.
+Decisions-focused and rigorous social scientist with diverse experience, education, and goals in biostatistics, data science, and program evaluation. Interest and experience in applying rigorous inference methods for programmatic and policy use. Emphasis on grassroots equity, co-ownership, and communication. Holds USA and EU citizenships. Positions my own.
 
 Please don't hesitate to reach out. My LinkedIn is https://www.linkedin.com/in/emilhafeez/. 
 
